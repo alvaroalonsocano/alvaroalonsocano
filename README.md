@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:c9a227&height=200&section=header&text=Álvaro%20Alonso&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Lead%20Software%20Engineer%20·%20Orfebretech&descAlignY=58&descSize=18" /> </p>
 
-<p align="center"> <img src="assets/typing.svg" alt="Lead Software Engineer @ Orfebretech" /> </p>
+<p align="center"> <img src="typing.svg" alt="Lead Software Engineer @ Orfebretech" /> </p>
 
 <p align="center">
   <a href="mailto:alvaroalonso@orfebretech.com"><img src="https://img.shields.io/badge/Email-Contact-c9a227?style=flat-square&logo=gmail&logoColor=white" /></a>
