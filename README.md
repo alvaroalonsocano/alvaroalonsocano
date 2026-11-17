@@ -60,11 +60,11 @@
 
 ### Side projects
 
-**TrainIA (KM0)** · *private repo*: PWA local-first de entrenamiento, peso y dieta. Monorepo pnpm con SPA en Vite, API propia en Hono sobre Supabase (Data API desactivada, RLS como segunda capa), login con magic link y OTP, sincronización offline y E2E con Playwright. La construí con un equipo de agentes en Claude Code (orquestador, devs y QA) en ramas de feature: unos 130 PRs.
+**[TrainIA] (https://train-ia-web.vercel.app/)** · *private repo*: PWA local-first de entrenamiento, peso y dieta. Monorepo pnpm con SPA en Vite, API propia en Hono sobre Supabase (Data API desactivada, RLS como segunda capa), login con magic link y OTP, sincronización offline y E2E con Playwright. La construí con un equipo de agentes en Claude Code (orquestador, devs y QA) en ramas de feature: unos 130 PRs.
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 
-**[Randbulm](https://randbull.studios403.com)**: un álbum aleatorio al día para escuchar de principio a fin, con valoraciones y grupos con amigos. Catálogo sobre MusicBrainz.
+**[Randbulm](https://randbulm.studios403.com)**: un álbum aleatorio al día para escuchar de principio a fin, con valoraciones y grupos con amigos. Catálogo sobre MusicBrainz.
 <br/>
 <img src="https://img.shields.io/badge/MusicBrainz-BA478F?style=flat-square&logo=musicbrainz&logoColor=white" />
 
