@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-c9a227?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:alvaroalonso@orfebretech.com"><img src="https://img.shields.io/badge/Email-Contact-c9a227?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Alvaro%20Alonso%20Cano-1e3a8a?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://orfebretech.com"><img src="https://img.shields.io/badge/orfebretech.com-0f172a?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Madrid,%20Spain-0f172a?style=flat-square&logo=googlemaps&logoColor=white" />
