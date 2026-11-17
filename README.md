@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:c9a227&height=200&section=header&text=Álvaro%20Alonso&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Lead%20Software%20Engineer%20·%20Orfebretech&descAlignY=58&descSize=18" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:c9a227&height=200&section=header&text=Álvaro%20Alonso&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Lead%20Software%20Engineer%20·%20Orfebretech&descAlignY=58&descSize=18" /> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=C9A227&center=true&vCenter=true&width=640&lines=Lead+Software+Engineer+%40+Orfebretech;Multi-tenant+commerce+platforms+for+luxury+retail;FastAPI+·+React+·+Next.js+·+PostgreSQL+·+AWS;LLM+agents+in+production+with+LangGraph;Based+in+Madrid+🇪🇸" />
